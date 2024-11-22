@@ -1,5 +1,6 @@
 # Arquivos de Build
 bin/
+Migrations/
 obj/
 *.dll
 *.pdb
