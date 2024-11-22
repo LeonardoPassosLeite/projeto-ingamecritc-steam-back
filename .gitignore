@@ -1,6 +1,5 @@
 # Arquivos de Build
 bin/
-Migrations/
 obj/
 *.dll
 *.pdb
@@ -43,7 +42,6 @@ project.fragment.lock.json
 *.log
 
 # Configuração do appsettings
-appsettings.Development.json
 appsettings.Local.json
 secrets.json
 
