@@ -11,7 +11,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace SteamChartsDatabaseAPI.Migrations
 {
     [DbContext(typeof(SteamChartsDbContext))]
-    [Migration("20241121155227_InitialCreate")]
+    [Migration("20241122181136_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
